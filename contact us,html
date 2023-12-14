@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <style>
+        div{
+             background-image: url(https://www.skh.com/wp-content/uploads/2020/01/iStock-1125868202-1.jpg);
+             background-size: cover;
+             height: 100vh;
+        }
+        </style>
+    </head>
+    <body><form>
+        
+            <div>
+            <h2><label>Name:</label></h2>
+            <input type="text" placeholder="Enter Name">
+            <h2><label>Email:</label></h2>
+            <input type="text" placeholder="Enter Email Id">
+        </div>
+    </form>
+</body>
+</html>
